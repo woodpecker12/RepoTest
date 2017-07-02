@@ -5,3 +5,4 @@ Repo Tool Test
 
 [branch b2]
 #&#0002
+#&#0004
